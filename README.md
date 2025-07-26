@@ -1,5 +1,7 @@
 # Password Generator Pro – Laravel + Vue.js
 
+<img width="1280" height="640" alt="ChatGPT Image 26  Juli 2025, 21_46_13" src="https://github.com/user-attachments/assets/43825826-4810-492b-bb98-5f3b226bfdbb" />
+
 > A full-featured, production-ready password generator built with **Laravel (API backend)** and **Vue.js (frontend)**. 
   - This application is designed for performance, security, and modular extensibility
 
